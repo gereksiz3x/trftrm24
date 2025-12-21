@@ -10,6 +10,10 @@ https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
 #EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
+#EXTINF:-1 tvg-name="ACD Virtus Entella - F.C. Südtirol (17:00)" group-title="Maç Yayınları",ACD Virtus Entella - F.C. Südtirol (17:00)
+https://andro.2385437.xyz/checklist/androstreamlivech17968272.m3u8
+#EXTINF:-1 tvg-name="ACD Virtus Entella - F.C. Südtirol (17:00)" group-title="Maç Yayınları",ACD Virtus Entella - F.C. Südtirol (17:00)
+https://andro.2385437.xyz/checklist/androstreamlivech17968272.m3u8
 #EXTINF:-1 tvg-name="AJ Auxerre - AS Monaco (16:45)" group-title="Maç Yayınları",AJ Auxerre - AS Monaco (16:45)
 https://andro.2385437.xyz/checklist/androstreamlivech17968220.m3u8
 #EXTINF:-1 tvg-name="AJ Auxerre - AS Monaco (16:45)" group-title="Maç Yayınları",AJ Auxerre - AS Monaco (16:45)
@@ -396,10 +400,6 @@ https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-name="SC Derby - Dubai (15:00)" group-title="Maç Yayınları",SC Derby - Dubai (15:00)
-https://andro.2385437.xyz/checklist/androstreamlivech17967611.m3u8
-#EXTINF:-1 tvg-name="SC Derby - Dubai (15:00)" group-title="Maç Yayınları",SC Derby - Dubai (15:00)
-https://andro.2385437.xyz/checklist/androstreamlivech17967611.m3u8
 #EXTINF:-1 tvg-name="SC Freiburg (Bayanlar) - SV Werder Bremen (Bayanlar) (16:00)" group-title="Maç Yayınları",SC Freiburg (Bayanlar) - SV Werder Bremen (Bayanlar) (16:00)
 https://andro.2385437.xyz/checklist/androstreamlivech17968025.m3u8
 #EXTINF:-1 tvg-name="SC Freiburg (Bayanlar) - SV Werder Bremen (Bayanlar) (16:00)" group-title="Maç Yayınları",SC Freiburg (Bayanlar) - SV Werder Bremen (Bayanlar) (16:00)
@@ -504,10 +504,6 @@ https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech17968148.m3u8
 #EXTINF:-1 tvg-name="Trikala 2011 (Bayanlar) - Nees Atromitou (Bayanlar) (16:15)" group-title="Maç Yayınları",Trikala 2011 (Bayanlar) - Nees Atromitou (Bayanlar) (16:15)
 https://andro.2385437.xyz/checklist/androstreamlivech17968148.m3u8
-#EXTINF:-1 tvg-name="Trival Valderas U19 - Burgos U19 (14:45)" group-title="Maç Yayınları",Trival Valderas U19 - Burgos U19 (14:45)
-https://andro.2385437.xyz/checklist/androstreamlivech17967748.m3u8
-#EXTINF:-1 tvg-name="Trival Valderas U19 - Burgos U19 (14:45)" group-title="Maç Yayınları",Trival Valderas U19 - Burgos U19 (14:45)
-https://andro.2385437.xyz/checklist/androstreamlivech17967748.m3u8
 #EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
 https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
@@ -536,6 +532,10 @@ https://andro.2385437.xyz/checklist/androstreamlivech17967600.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech17968131.m3u8
 #EXTINF:-1 tvg-name="U.S. Pianese A.S.D - Ternana Calcio (16:30)" group-title="Maç Yayınları",U.S. Pianese A.S.D - Ternana Calcio (16:30)
 https://andro.2385437.xyz/checklist/androstreamlivech17968131.m3u8
+#EXTINF:-1 tvg-name="U.S. Sassuolo Calcio - Torino F.C. (17:00)" group-title="Maç Yayınları",U.S. Sassuolo Calcio - Torino F.C. (17:00)
+https://andro.2385437.xyz/checklist/androstreamlivech17968271.m3u8
+#EXTINF:-1 tvg-name="U.S. Sassuolo Calcio - Torino F.C. (17:00)" group-title="Maç Yayınları",U.S. Sassuolo Calcio - Torino F.C. (17:00)
+https://andro.2385437.xyz/checklist/androstreamlivech17968271.m3u8
 #EXTINF:-1 tvg-name="US Concarneau - FC Nantes (16:45)" group-title="Maç Yayınları",US Concarneau - FC Nantes (16:45)
 https://andro.2385437.xyz/checklist/androstreamlivech17968219.m3u8
 #EXTINF:-1 tvg-name="US Concarneau - FC Nantes (16:45)" group-title="Maç Yayınları",US Concarneau - FC Nantes (16:45)
