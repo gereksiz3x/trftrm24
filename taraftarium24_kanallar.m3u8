@@ -28,10 +28,6 @@ https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-name="Atv" group-title="Ulusal Kanallar",Atv
 https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
-#EXTINF:-1 tvg-name="BC Pallacanestro Trieste - Virtus Granarolo Bologna (22:30)" group-title="Maç Yayınları",BC Pallacanestro Trieste - Virtus Granarolo Bologna (22:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18021008.m3u8
-#EXTINF:-1 tvg-name="BC Pallacanestro Trieste - Virtus Granarolo Bologna (22:30)" group-title="Maç Yayınları",BC Pallacanestro Trieste - Virtus Granarolo Bologna (22:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18021008.m3u8
 #EXTINF:-1 tvg-name="Bahçeşehir Klj - Hamburg Towers (19:00)" group-title="Maç Yayınları",Bahçeşehir Klj - Hamburg Towers (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Monaco (22:30)" group-title="Maç Yayınları",Barcelona - Monaco (22:30)
@@ -96,10 +92,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech18021033.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18021033.m3u8
 #EXTINF:-1 tvg-name="Buducnost - Türk Telekom (21:00)" group-title="Maç Yayınları",Buducnost - Türk Telekom (21:00)
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="Burton Albion - Wigan Athletic (22:45)" group-title="Maç Yayınları",Burton Albion - Wigan Athletic (22:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18021044.m3u8
-#EXTINF:-1 tvg-name="Burton Albion - Wigan Athletic (22:45)" group-title="Maç Yayınları",Burton Albion - Wigan Athletic (22:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18021044.m3u8
 #EXTINF:-1 tvg-name="Cardiff City - Stevenage (22:45)" group-title="Maç Yayınları",Cardiff City - Stevenage (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivech18021167.m3u8
 #EXTINF:-1 tvg-name="Cardiff City - Stevenage (22:45)" group-title="Maç Yayınları",Cardiff City - Stevenage (22:45)
@@ -170,6 +162,10 @@ https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
 #EXTINF:-1 tvg-name="Florida Gators - Dartmouth (02:00)" group-title="Maç Yayınları",Florida Gators - Dartmouth (02:00)
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="Gillingham - Colchester United (22:45)" group-title="Maç Yayınları",Gillingham - Colchester United (22:45)
+https://andro.2385437.xyz/checklist/androstreamlivech18021035.m3u8
+#EXTINF:-1 tvg-name="Gillingham - Colchester United (22:45)" group-title="Maç Yayınları",Gillingham - Colchester United (22:45)
+https://andro.2385437.xyz/checklist/androstreamlivech18021035.m3u8
 #EXTINF:-1 tvg-name="Grimsby Town - Shrewsbury Town (22:45)" group-title="Maç Yayınları",Grimsby Town - Shrewsbury Town (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivech18021159.m3u8
 #EXTINF:-1 tvg-name="Grimsby Town - Shrewsbury Town (22:45)" group-title="Maç Yayınları",Grimsby Town - Shrewsbury Town (22:45)
@@ -188,14 +184,18 @@ https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18021160.m3u8
 #EXTINF:-1 tvg-name="Huddersfield Town - Northampton Town (22:45)" group-title="Maç Yayınları",Huddersfield Town - Northampton Town (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivech18021160.m3u8
-#EXTINF:-1 tvg-name="Illinois Fighting Illini - Southern University Jaguars (23:00)" group-title="Maç Yayınları",Illinois Fighting Illini - Southern University Jaguars (23:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18021244.m3u8
-#EXTINF:-1 tvg-name="Illinois Fighting Illini - Southern University Jaguars (23:00)" group-title="Maç Yayınları",Illinois Fighting Illini - Southern University Jaguars (23:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18021244.m3u8
+#EXTINF:-1 tvg-name="Iona Gaels (Bayanlar) - Rider Broncs (Bayanlar) (00:00)" group-title="Maç Yayınları",Iona Gaels (Bayanlar) - Rider Broncs (Bayanlar) (00:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18021506.m3u8
+#EXTINF:-1 tvg-name="Iona Gaels (Bayanlar) - Rider Broncs (Bayanlar) (00:00)" group-title="Maç Yayınları",Iona Gaels (Bayanlar) - Rider Broncs (Bayanlar) (00:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18021506.m3u8
 #EXTINF:-1 tvg-name="Leicester City - Derby County (22:45)" group-title="Maç Yayınları",Leicester City - Derby County (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivech18021054.m3u8
 #EXTINF:-1 tvg-name="Leicester City - Derby County (22:45)" group-title="Maç Yayınları",Leicester City - Derby County (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivech18021054.m3u8
+#EXTINF:-1 tvg-name="Luton Town - Leyton Orient (22:45)" group-title="Maç Yayınları",Luton Town - Leyton Orient (22:45)
+https://andro.2385437.xyz/checklist/androstreamlivech18021161.m3u8
+#EXTINF:-1 tvg-name="Luton Town - Leyton Orient (22:45)" group-title="Maç Yayınları",Luton Town - Leyton Orient (22:45)
+https://andro.2385437.xyz/checklist/androstreamlivech18021161.m3u8
 #EXTINF:-1 tvg-name="Middlesbrough - Hull City (22:45)" group-title="Maç Yayınları",Middlesbrough - Hull City (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivech18021055.m3u8
 #EXTINF:-1 tvg-name="Middlesbrough - Hull City (22:45)" group-title="Maç Yayınları",Middlesbrough - Hull City (22:45)
@@ -214,10 +214,6 @@ https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
 #EXTINF:-1 tvg-name="Nba Tv" group-title="Spor",Nba Tv
 https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
-#EXTINF:-1 tvg-name="Newport County - Crewe Alexandra (22:30)" group-title="Maç Yayınları",Newport County - Crewe Alexandra (22:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18021010.m3u8
-#EXTINF:-1 tvg-name="Newport County - Crewe Alexandra (22:30)" group-title="Maç Yayınları",Newport County - Crewe Alexandra (22:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18021010.m3u8
 #EXTINF:-1 tvg-name="Norwich City - Watford (22:45)" group-title="Maç Yayınları",Norwich City - Watford (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivech18021045.m3u8
 #EXTINF:-1 tvg-name="Norwich City - Watford (22:45)" group-title="Maç Yayınları",Norwich City - Watford (22:45)
@@ -252,10 +248,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech18021509.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18021509.m3u8
 #EXTINF:-1 tvg-name="Roma - Genoa (22:45)" group-title="Maç Yayınları",Roma - Genoa (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="Roma - Genoa C.F.C. (22:45)" group-title="Maç Yayınları",Roma - Genoa C.F.C. (22:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18021117.m3u8
-#EXTINF:-1 tvg-name="Roma - Genoa C.F.C. (22:45)" group-title="Maç Yayınları",Roma - Genoa C.F.C. (22:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18021117.m3u8
 #EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
